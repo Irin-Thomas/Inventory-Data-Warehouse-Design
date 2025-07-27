@@ -49,7 +49,11 @@ And 4 key dimension tables:
 
 ## 📄 Report
 
-📄 [Read the final coursework report](docs/ABC_DataWarehouse_Report.pdf)
+📄 [Read the final coursework report]([docs/ABC_DataWarehouse_Report.pdf](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design/blob/main/Report/IRIN_DATAWAREHOUSE%20Report.pdf))
+
+---
+## Sart Schema 
+<img width="750" height="830" alt="image" src="https://github.com/user-attachments/assets/81b332ea-9472-4012-9a40-1ce65a864305" />
 
 ---
 
