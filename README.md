@@ -44,7 +44,8 @@ And 4 key dimension tables:
 
 ## 📂 Repository Structure
 
-
+- [Code](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design/tree/main/Code)
+- [Report](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design/blob/main/Report/IRIN_DATAWAREHOUSE%20Report.pdf)
 ---
 
 ## 📄 Report
