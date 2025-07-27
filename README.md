@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-This project presents the design and implementation of a data warehouse solution for ABC Consumer Electronics Ltd, focusing on inventory management. It was developed using Microsoft SQL Server as part of MSc Data Analytics coursework (CS7079) at London Metropolitan University.
+This project presents the design and implementation of a data warehouse solution for ABC Consumer Electronics Ltd, focusing on inventory management. 
 
 ---
 
@@ -50,7 +50,7 @@ And 4 key dimension tables:
 
 ## 📄 Report
 
-📄 [Read the final coursework report]([docs/ABC_DataWarehouse_Report.pdf](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design/blob/main/Report/IRIN_DATAWAREHOUSE%20Report.pdf))
+📄 [Read the final coursework report](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design/blob/main/Report/IRIN_DATAWAREHOUSE%20Report.pdf)
 
 ---
 ## Sart Schema 
