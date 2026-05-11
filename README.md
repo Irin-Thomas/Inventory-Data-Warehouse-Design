@@ -1,4 +1,4 @@
-# Inventory Management Data Warehouse – ABC Consumer ElectronicsEnterprise Inventory Data Warehouse & Business Intelligence System
+# Enterprise Inventory Data Warehouse & Business Intelligence System
 
 # SQL Server | Star Schema Modeling | ETL Pipelines | Inventory Analytics
 ## 📘 Project Overview
