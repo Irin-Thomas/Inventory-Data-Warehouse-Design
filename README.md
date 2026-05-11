@@ -1,9 +1,9 @@
 # Enterprise Inventory Data Warehouse & Business Intelligence System
 
-# SQL Server | Star Schema Modeling | ETL Pipelines | Inventory Analytics
+### SQL Server | Star Schema Modeling | ETL Pipelines | Inventory Analytics
 ## 📘 Project Overview
 
-The solution was developed to centralize inventory data, improve stock visibility, and support business reporting across suppliers, products, and retail outlets.
+This project demonstrates the design and implementation of an enterprise inventory data warehouse for ABC Consumer Electronics Ltd using Microsoft SQL Server.The solution was developed to centralize inventory data, improve stock visibility, and support business reporting across suppliers, products, and retail outlets.
 
 Using dimensional modeling and ETL processes, the warehouse enables:
 
@@ -90,7 +90,7 @@ And 4 key dimension tables:
 
 ## 💭 Reflection
 
-Through this project, I learned how to:
+This project strengthened my understanding of:
 - Design a dimensional data model aligned with business needs
 - Create and populate a warehouse schema in SQL Server
 - Apply constraints and data cleaning in production
